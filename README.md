@@ -1,4 +1,6 @@
 # Ever-Academy
+![image](https://github.com/user-attachments/assets/2de4d706-e0c4-4b21-970a-269d9fbaf722)
+
 ## Vision
 
 The *ContinuousLearning* smart contract is designed to facilitate a blockchain-based record system for educational achievements. It allows students to register, track their achievements, and view their total points. The contract ensures transparency and immutability of educational records, making it easier for students to manage and showcase their learning milestones.
@@ -31,6 +33,8 @@ The *ContinuousLearning* smart contract is designed to facilitate a blockchain-b
 ## Contract Address
 
 *Address*: (0xbc657511122b9173c083c8b9ff4a5f23d928de16)
+![Screenshot 2024-08-27 155016](https://github.com/user-attachments/assets/e82c9c6f-fc6b-4291-9413-98d0aa936014)
+
 
 ## Future Scope
 
