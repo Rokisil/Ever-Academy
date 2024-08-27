@@ -3,7 +3,7 @@
 
 ## Vision
 
-The *ContinuousLearning* smart contract is designed to facilitate a blockchain-based record system for educational achievements. It allows students to register, track their achievements, and view their total points. The contract ensures transparency and immutability of educational records, making it easier for students to manage and showcase their learning milestones.
+The Ever Academy is designed to facilitate a blockchain-based record system for educational achievements. It allows students to register, track their achievements, and view their total points. The contract ensures transparency and immutability of educational records, making it easier for students to manage and showcase their learning milestones.
 
 ## Flowchart
 
